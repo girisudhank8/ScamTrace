@@ -1,0 +1,6 @@
+complaint_id,victim_id,reported_amount,report_date,originating_account,description,status
+CMP001,ACC_V001,50000,2024-02-16,ACC_V001,"Victim reports ₹50,000 transferred to unknown UPI ID after receiving OTP phishing call. Funds traced to ACC_M001.",UNDER_INVESTIGATION
+CMP002,ACC_V002,75000,2024-03-11,ACC_V002,"Victim reports ₹75,000 lost in investment fraud. Transferred to fake trading platform linked to ACC_M002.",UNDER_INVESTIGATION
+CMP003,ACC_V003,30000,2024-04-06,ACC_V003,"Victim reports ₹30,000 sent to impersonator posing as bank official. Amount split across multiple mule accounts.",OPEN
+CMP004,ACC_V004,20000,2024-05-13,ACC_V004,"Victim reports ₹20,000 lost in job fraud. Transferred to fraudulent recruiter account ACC_M006.",OPEN
+CMP005,ACC_V005,100000,2024-06-02,ACC_V005,"Victim reports ₹1,00,000 transferred in KYC update fraud. High-value case connecting to previously identified mule network.",ESCALATED

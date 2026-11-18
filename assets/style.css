@@ -1,0 +1,100 @@
+/* ScamTrace - Premium Dark Theme */
+
+/* Base */
+.stApp {
+    background-color: #0d1117;
+    color: #e6edf3;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background-color: #161b22 !important;
+    border-right: 1px solid #21262d;
+}
+
+[data-testid="stSidebar"] .stMarkdown {
+    color: #e6edf3;
+}
+
+/* Headers */
+h1, h2, h3 { color: #e6edf3 !important; }
+h1 { font-size: 1.6rem !important; font-weight: 700 !important; }
+
+/* Metric cards */
+[data-testid="stMetricValue"] {
+    color: #58a6ff !important;
+    font-size: 1.8rem !important;
+    font-weight: 700 !important;
+}
+[data-testid="stMetricLabel"] { color: #8b949e !important; }
+[data-testid="stMetricDelta"] { font-size: 0.8rem !important; }
+
+/* Dataframes */
+[data-testid="stDataFrame"] { border: 1px solid #21262d !important; border-radius: 6px; }
+
+/* Buttons */
+.stButton > button {
+    background-color: #1f6feb !important;
+    color: #ffffff !important;
+    border: none !important;
+    border-radius: 6px !important;
+    font-weight: 600 !important;
+    padding: 0.4rem 1.2rem !important;
+    transition: background-color 0.2s !important;
+}
+.stButton > button:hover {
+    background-color: #2ea8a5 !important;
+}
+
+/* Selectbox, inputs */
+[data-testid="stSelectbox"], [data-testid="stMultiSelect"] {
+    background-color: #161b22;
+}
+
+/* Tabs */
+[data-testid="stTabs"] [role="tablist"] {
+    background-color: #161b22;
+    border-bottom: 1px solid #21262d;
+}
+[data-testid="stTabs"] button[role="tab"] {
+    color: #8b949e !important;
+}
+[data-testid="stTabs"] button[role="tab"][aria-selected="true"] {
+    color: #58a6ff !important;
+    border-bottom: 2px solid #1f6feb !important;
+}
+
+/* Expander */
+[data-testid="stExpander"] {
+    background-color: #161b22;
+    border: 1px solid #21262d;
+    border-radius: 6px;
+}
+
+/* Alerts */
+[data-testid="stAlert"] { border-radius: 6px; }
+
+/* Divider */
+hr { border-color: #21262d !important; }
+
+/* Code blocks */
+code { background-color: #161b22 !important; color: #58a6ff !important; }
+
+/* Table */
+table { background-color: #161b22 !important; }
+th { background-color: #21262d !important; color: #58a6ff !important; }
+td { color: #e6edf3 !important; border-color: #21262d !important; }
+
+/* Progress bar */
+.stProgress > div > div { background-color: #1f6feb !important; }
+
+/* Spinner */
+[data-testid="stSpinner"] { color: #58a6ff !important; }
+
+/* Input */
+.stTextInput input, .stNumberInput input, .stTextArea textarea {
+    background-color: #161b22 !important;
+    color: #e6edf3 !important;
+    border-color: #21262d !important;
+}

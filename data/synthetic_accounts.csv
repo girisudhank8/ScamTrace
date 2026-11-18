@@ -1,0 +1,121 @@
+account_id,account_holder,account_type,bank_name,account_opening_date,risk_status,upi_id,phone_number,state
+ACC_V001,Priya Sharma,SAVINGS,HDFC,2020-01-15,NORMAL,priya.sharma@okhdfc,+91 7081946048,Tamil Nadu
+ACC_V002,Amit Kumar,SAVINGS,Axis,2020-01-15,NORMAL,amit.kumar@okhdfcbank,+91 7457223434,Madhya Pradesh
+ACC_V003,Sunita Verma,SAVINGS,PhonePe,2020-01-15,NORMAL,sunita.verma@ybl,+91 7284887397,Rajasthan
+ACC_V004,Rahul Singh,SAVINGS,SBI,2020-01-15,NORMAL,rahul.singh@oksbi,+91 7097622280,Tamil Nadu
+ACC_V005,Meera Patel,SAVINGS,Axis,2020-01-15,NORMAL,meera.patel@okhdfcbank,+91 8655988907,Maharashtra
+ACC_M001,Karan Thakur,SAVINGS,PhonePe,2023-12-21,NORMAL,karan.thakur@ybl,+91 9298181426,Rajasthan
+ACC_M002,Vikas Yadav,CURRENT,Axis,2023-10-09,NORMAL,vikas.yadav@okhdfcbank,+91 9652310851,Haryana
+ACC_M003,Rohit Chauhan,WALLET,ICICI,2023-07-11,NORMAL,rohit.chauhan@okicici,+91 7910530379,Tamil Nadu
+ACC_M004,Deepak Rajput,SAVINGS,PNB,2023-02-13,NORMAL,deepak.rajput@oksbi,+91 7316957052,Bihar
+ACC_M005,Sanjay Das,WALLET,PNB,2023-05-26,NORMAL,sanjay.das@oksbi,+91 7142370217,Telangana
+ACC_M006,Nitin Ghosh,CURRENT,HDFC,2023-02-18,NORMAL,nitin.ghosh@okhdfc,+91 7960692397,Andhra Pradesh
+ACC_M007,Ajay Mondal,WALLET,PNB,2023-04-23,NORMAL,ajay.mondal@oksbi,+91 7227916006,Madhya Pradesh
+ACC_M008,Suresh Bose,CURRENT,Axis,2023-02-28,NORMAL,suresh.bose@okhdfcbank,+91 7762823238,Rajasthan
+ACC_M009,Ramesh Roy,CURRENT,Kotak,2023-11-27,NORMAL,ramesh.roy@kotak,+91 8195431319,Gujarat
+ACC_M010,Dinesh Sen,SAVINGS,PNB,2023-11-09,NORMAL,dinesh.sen@oksbi,+91 9299799593,Madhya Pradesh
+ACC_L001,Neha Bhatt,SAVINGS,Axis,2022-03-14,NORMAL,neha.bhatt@okhdfcbank,+91 7601246509,West Bengal
+ACC_L002,Nisha Pillai,SAVINGS,Axis,2022-09-04,NORMAL,nisha.pillai@okhdfcbank,+91 7165795477,Telangana
+ACC_L003,Madhu Dey,SAVINGS,SBI,2018-03-14,NORMAL,madhu.dey@oksbi,+91 8591373092,Tamil Nadu
+ACC_L004,Nitin Pillai,SAVINGS,Yes Bank,2017-07-01,NORMAL,nitin.pillai@yesbank,+91 8279344760,Odisha
+ACC_L005,Varun Bansal,SAVINGS,Paytm,2021-12-24,NORMAL,varun.bansal@paytm,+91 9566982845,Madhya Pradesh
+ACC_L006,Vinod Das,SAVINGS,Paytm,2018-05-07,NORMAL,vinod.das@paytm,+91 7191685914,Punjab
+ACC_L007,Anita Chauhan,SAVINGS,PhonePe,2020-01-02,NORMAL,anita.chauhan@ybl,+91 8914272493,Telangana
+ACC_L008,Bhavna Mukherjee,SAVINGS,PhonePe,2015-09-03,NORMAL,bhavna.mukherjee@ybl,+91 9789634356,Delhi
+ACC_L009,Saraswati Mondal,SAVINGS,GPay,2018-07-04,NORMAL,saraswati.mondal@okaxis,+91 9917284668,Tamil Nadu
+ACC_L010,Pranay Singh,WALLET,GPay,2015-10-03,NORMAL,pranay.singh@okaxis,+91 8373796163,Andhra Pradesh
+ACC_L011,Rekha Gupta,WALLET,GPay,2020-05-07,NORMAL,rekha.gupta@okaxis,+91 9194551180,Tamil Nadu
+ACC_L012,Lakshmi Garg,CURRENT,Kotak,2017-11-21,NORMAL,lakshmi.garg@kotak,+91 7983069929,Gujarat
+ACC_L013,Vinod Kumar,SAVINGS,HDFC,2022-10-19,NORMAL,vinod.kumar@okhdfc,+91 7327619602,Telangana
+ACC_L014,Sneha Thakur,WALLET,Axis,2019-03-12,NORMAL,sneha.thakur@okhdfcbank,+91 9886419016,Odisha
+ACC_L015,Chandra Shah,SAVINGS,Axis,2019-03-15,NORMAL,chandra.shah@okhdfcbank,+91 9732081200,Punjab
+ACC_L016,Sneha Bose,WALLET,Kotak,2015-11-27,NORMAL,sneha.bose@kotak,+91 8817349240,Odisha
+ACC_L017,Nidhi Garg,SAVINGS,HDFC,2019-02-04,NORMAL,nidhi.garg@okhdfc,+91 9432782512,Karnataka
+ACC_L018,Shweta Kapoor,SAVINGS,Kotak,2018-12-11,NORMAL,shweta.kapoor@kotak,+91 7667193130,Bihar
+ACC_L019,Rahul Tripathi,WALLET,Kotak,2022-05-28,NORMAL,rahul.tripathi@kotak,+91 7166422097,Madhya Pradesh
+ACC_L020,Deepak Pandey,SAVINGS,Yes Bank,2015-01-11,NORMAL,deepak.pandey@yesbank,+91 9526827146,Madhya Pradesh
+ACC_L021,Sudhanshu Chauhan,SAVINGS,Kotak,2022-09-23,NORMAL,sudhanshu.chauhan@kotak,+91 8401483519,Maharashtra
+ACC_L022,Madhu Tripathi,SAVINGS,HDFC,2017-09-02,NORMAL,madhu.tripathi@okhdfc,+91 9734858393,Andhra Pradesh
+ACC_L023,Sudhanshu Rajput,SAVINGS,PhonePe,2021-03-02,NORMAL,sudhanshu.rajput@ybl,+91 8010157795,Odisha
+ACC_L024,Kunal Rajput,SAVINGS,SBI,2018-11-08,NORMAL,kunal.rajput@oksbi,+91 9185423473,Gujarat
+ACC_L025,Gaurav Agarwal,CURRENT,PhonePe,2017-04-28,NORMAL,gaurav.agarwal@ybl,+91 7532433206,Odisha
+ACC_L026,Bhavna Reddy,SAVINGS,Yes Bank,2017-12-11,NORMAL,bhavna.reddy@yesbank,+91 9563763964,Haryana
+ACC_L027,Sonal Rastogi,SAVINGS,Axis,2017-12-04,NORMAL,sonal.rastogi@okhdfcbank,+91 8253515075,Bihar
+ACC_L028,Sunita Sen,SAVINGS,Paytm,2018-08-12,NORMAL,sunita.sen@paytm,+91 8000039831,Tamil Nadu
+ACC_L029,Rohit Rao,SAVINGS,SBI,2021-06-09,NORMAL,rohit.rao@oksbi,+91 9832319099,Haryana
+ACC_L030,Kavya Mukherjee,SAVINGS,Kotak,2021-11-27,NORMAL,kavya.mukherjee@kotak,+91 8757053404,Maharashtra
+ACC_L031,Kunal Bhatt,SAVINGS,HDFC,2017-10-09,NORMAL,kunal.bhatt@okhdfc,+91 7125324208,Andhra Pradesh
+ACC_L032,Anjali Bansal,SAVINGS,Yes Bank,2020-07-20,NORMAL,anjali.bansal@yesbank,+91 8675825157,Rajasthan
+ACC_L033,Lata Bhatt,SAVINGS,GPay,2019-01-23,NORMAL,lata.bhatt@okaxis,+91 8428810221,Telangana
+ACC_L034,Varun Shukla,SAVINGS,PhonePe,2020-07-03,NORMAL,varun.shukla@ybl,+91 9176553279,Andhra Pradesh
+ACC_L035,Prakash Chauhan,SAVINGS,PNB,2019-09-10,NORMAL,prakash.chauhan@oksbi,+91 9185263528,Gujarat
+ACC_L036,Vihan Mukherjee,SAVINGS,Yes Bank,2017-04-14,NORMAL,vihan.mukherjee@yesbank,+91 9178859695,Madhya Pradesh
+ACC_L037,Sudhir Rao,WALLET,ICICI,2019-07-18,NORMAL,sudhir.rao@okicici,+91 9731910053,Uttar Pradesh
+ACC_L038,Savita Yadav,SAVINGS,Kotak,2021-10-20,NORMAL,savita.yadav@kotak,+91 9145352237,West Bengal
+ACC_L039,Akhil Dubey,CURRENT,Paytm,2018-09-16,NORMAL,akhil.dubey@paytm,+91 9600932241,Madhya Pradesh
+ACC_L040,Dinkar Bose,SAVINGS,HDFC,2020-02-27,NORMAL,dinkar.bose@okhdfc,+91 9461340784,Madhya Pradesh
+ACC_L041,Durga Rao,SAVINGS,Kotak,2018-03-01,NORMAL,durga.rao@kotak,+91 7151442092,West Bengal
+ACC_L042,Pankaj Khanna,SAVINGS,GPay,2022-07-21,NORMAL,pankaj.khanna@okaxis,+91 8886335485,Punjab
+ACC_L043,Kavya Kapoor,CURRENT,Yes Bank,2021-04-05,NORMAL,kavya.kapoor@yesbank,+91 9149710726,Odisha
+ACC_L044,Aarav Dey,CURRENT,HDFC,2018-03-26,NORMAL,aarav.dey@okhdfc,+91 9280377889,West Bengal
+ACC_L045,Sudhir Tripathi,WALLET,SBI,2018-02-15,NORMAL,sudhir.tripathi@oksbi,+91 7436970901,Madhya Pradesh
+ACC_L046,Rachna Sen,WALLET,PhonePe,2020-08-20,NORMAL,rachna.sen@ybl,+91 9670676162,Rajasthan
+ACC_L047,Riya Chaturvedi,CURRENT,PhonePe,2017-12-28,NORMAL,riya.chaturvedi@ybl,+91 8555468991,Uttar Pradesh
+ACC_L048,Suresh Das,SAVINGS,Axis,2022-11-08,NORMAL,suresh.das@okhdfcbank,+91 7899867654,Delhi
+ACC_L049,Girish Das,SAVINGS,Kotak,2019-06-11,NORMAL,girish.das@kotak,+91 9926280798,Delhi
+ACC_L050,Rachna Bhatt,SAVINGS,ICICI,2018-07-23,NORMAL,rachna.bhatt@okicici,+91 7500738043,Delhi
+ACC_L051,Aishwarya Nair,CURRENT,Yes Bank,2020-09-15,NORMAL,aishwarya.nair@yesbank,+91 8362418161,Tamil Nadu
+ACC_L052,Manju Sen,CURRENT,Yes Bank,2015-10-13,NORMAL,manju.sen@yesbank,+91 8562910772,Gujarat
+ACC_L053,Kavya Yadav,CURRENT,Kotak,2021-09-24,NORMAL,kavya.yadav@kotak,+91 9407281582,Haryana
+ACC_L054,Pranay Shukla,SAVINGS,GPay,2022-04-09,NORMAL,pranay.shukla@okaxis,+91 8428173654,Maharashtra
+ACC_L055,Aarav Bhatt,SAVINGS,Yes Bank,2021-12-06,NORMAL,aarav.bhatt@yesbank,+91 9754171261,Odisha
+ACC_L056,Saraswati Rastogi,WALLET,ICICI,2015-07-19,NORMAL,saraswati.rastogi@okicici,+91 8849396900,Maharashtra
+ACC_L057,Arjun Rao,CURRENT,HDFC,2017-08-06,NORMAL,arjun.rao@okhdfc,+91 7164744099,Rajasthan
+ACC_L058,Sarla Srivastava,SAVINGS,PNB,2022-06-11,NORMAL,sarla.srivastava@oksbi,+91 9494359692,Uttar Pradesh
+ACC_L059,Manish Singh,SAVINGS,Yes Bank,2016-08-01,NORMAL,manish.singh@yesbank,+91 9454480702,Maharashtra
+ACC_L060,Manish Thakur,SAVINGS,PNB,2016-11-02,NORMAL,manish.thakur@oksbi,+91 9471414067,Tamil Nadu
+ACC_L061,Pooja Patel,SAVINGS,Axis,2017-04-05,NORMAL,pooja.patel@okhdfcbank,+91 8551797747,Delhi
+ACC_L062,Arvind Rastogi,SAVINGS,GPay,2022-12-09,NORMAL,arvind.rastogi@okaxis,+91 9512958351,Karnataka
+ACC_L063,Anjali Sen,WALLET,GPay,2016-03-10,NORMAL,anjali.sen@okaxis,+91 7354285849,Maharashtra
+ACC_L064,Madhu Mondal,WALLET,Kotak,2021-07-23,NORMAL,madhu.mondal@kotak,+91 7649819961,Andhra Pradesh
+ACC_L065,Vikas Reddy,SAVINGS,Axis,2019-11-20,NORMAL,vikas.reddy@okhdfcbank,+91 9639525866,Haryana
+ACC_L066,Alka Saxena,SAVINGS,GPay,2020-09-14,NORMAL,alka.saxena@okaxis,+91 9167658571,Delhi
+ACC_L067,Ajay Pillai,SAVINGS,PhonePe,2015-07-27,NORMAL,ajay.pillai@ybl,+91 8606223833,Rajasthan
+ACC_L068,Ashok Shukla,CURRENT,PNB,2017-07-06,NORMAL,ashok.shukla@oksbi,+91 9404578386,Madhya Pradesh
+ACC_L069,Yogesh Khanna,WALLET,Kotak,2022-08-14,NORMAL,yogesh.khanna@kotak,+91 9705787656,Uttar Pradesh
+ACC_L070,Sneha Yadav,SAVINGS,PNB,2016-05-15,NORMAL,sneha.yadav@oksbi,+91 7799070910,Andhra Pradesh
+ACC_L071,Akhil Dey,CURRENT,GPay,2020-01-16,NORMAL,akhil.dey@okaxis,+91 9788452600,Karnataka
+ACC_L072,Anita Iyer,SAVINGS,Paytm,2020-05-11,NORMAL,anita.iyer@paytm,+91 7916388139,Punjab
+ACC_L073,Chandra Srivastava,WALLET,Kotak,2015-09-07,NORMAL,chandra.srivastava@kotak,+91 7280541635,Punjab
+ACC_L074,Gaurav Ghosh,CURRENT,Yes Bank,2018-12-16,NORMAL,gaurav.ghosh@yesbank,+91 9116474332,West Bengal
+ACC_L075,Renu Agarwal,SAVINGS,SBI,2019-04-13,NORMAL,renu.agarwal@oksbi,+91 9266841890,Uttar Pradesh
+ACC_L076,Rishabh Shukla,SAVINGS,GPay,2022-09-17,NORMAL,rishabh.shukla@okaxis,+91 8126465771,Punjab
+ACC_L077,Shubham Rao,SAVINGS,PhonePe,2020-12-15,NORMAL,shubham.rao@ybl,+91 7887750189,Uttar Pradesh
+ACC_L078,Nitin Mishra,SAVINGS,Axis,2018-06-04,NORMAL,nitin.mishra@okhdfcbank,+91 9434280236,Haryana
+ACC_L079,Anjali Mehta,SAVINGS,ICICI,2018-12-16,NORMAL,anjali.mehta@okicici,+91 7906087278,Haryana
+ACC_L080,Arjun Rajput,WALLET,PhonePe,2019-02-27,NORMAL,arjun.rajput@ybl,+91 7636048829,Tamil Nadu
+ACC_L081,Ajay Mishra,SAVINGS,PNB,2019-01-23,NORMAL,ajay.mishra@oksbi,+91 8750226591,Uttar Pradesh
+ACC_L082,Santosh Mishra,SAVINGS,SBI,2019-12-05,NORMAL,santosh.mishra@oksbi,+91 9090174340,Delhi
+ACC_L083,Aarav Kumar,WALLET,SBI,2019-08-16,NORMAL,aarav.kumar@oksbi,+91 8443354657,Karnataka
+ACC_L084,Rohini Das,SAVINGS,SBI,2022-02-27,NORMAL,rohini.das@oksbi,+91 7214162521,West Bengal
+ACC_L085,Priya Mishra,WALLET,HDFC,2015-03-05,NORMAL,priya.mishra@okhdfc,+91 9657983772,Uttar Pradesh
+ACC_L086,Anjali Gupta,SAVINGS,HDFC,2016-09-25,NORMAL,anjali.gupta@okhdfc,+91 8363789471,Andhra Pradesh
+ACC_L087,Parvati Kumar,SAVINGS,GPay,2021-08-15,NORMAL,parvati.kumar@okaxis,+91 7974387139,Rajasthan
+ACC_L088,Sonal Pandey,WALLET,Kotak,2015-10-24,NORMAL,sonal.pandey@kotak,+91 7325137235,Madhya Pradesh
+ACC_L089,Sunil Ghosh,SAVINGS,Axis,2016-03-08,NORMAL,sunil.ghosh@okhdfcbank,+91 7569582350,Delhi
+ACC_L090,Pallavi Krishnan,SAVINGS,ICICI,2021-08-23,NORMAL,pallavi.krishnan@okicici,+91 8945871592,Uttar Pradesh
+ACC_L091,Asha Reddy,SAVINGS,SBI,2019-12-10,NORMAL,asha.reddy@oksbi,+91 9303569510,Delhi
+ACC_L092,Sudhir Thakur,SAVINGS,Axis,2018-07-04,NORMAL,sudhir.thakur@okhdfcbank,+91 8784439466,Madhya Pradesh
+ACC_L093,Harish Saxena,SAVINGS,ICICI,2017-02-02,NORMAL,harish.saxena@okicici,+91 7543650319,Andhra Pradesh
+ACC_L094,Nitin Saxena,SAVINGS,GPay,2022-02-15,NORMAL,nitin.saxena@okaxis,+91 9256649857,Punjab
+ACC_L095,Vishal Iyer,SAVINGS,Yes Bank,2022-08-03,NORMAL,vishal.iyer@yesbank,+91 8959615224,Odisha
+ACC_L096,Amit Joshi,SAVINGS,Yes Bank,2019-01-03,NORMAL,amit.joshi@yesbank,+91 7750198381,Bihar
+ACC_L097,Alka Khanna,WALLET,GPay,2015-11-27,NORMAL,alka.khanna@okaxis,+91 7883185529,Maharashtra
+ACC_L098,Usha Khanna,CURRENT,ICICI,2022-05-06,NORMAL,usha.khanna@okicici,+91 8918067132,Madhya Pradesh
+ACC_L099,Vishal Kapoor,SAVINGS,Paytm,2022-06-14,NORMAL,vishal.kapoor@paytm,+91 8092152081,Madhya Pradesh
+ACC_L100,Arvind Singh,SAVINGS,HDFC,2020-07-23,NORMAL,arvind.singh@okhdfc,+91 8623547777,Madhya Pradesh
+ACC_L101,Jyoti Bose,WALLET,Yes Bank,2015-08-03,NORMAL,jyoti.bose@yesbank,+91 8030643082,Gujarat
+ACC_L102,Shweta Joshi,CURRENT,HDFC,2015-11-28,NORMAL,shweta.joshi@okhdfc,+91 8777970552,Rajasthan
+ACC_L103,Priya Garg,SAVINGS,SBI,2020-10-25,NORMAL,priya.garg@oksbi,+91 8633491973,West Bengal
+ACC_L104,Arvind Mehta,SAVINGS,SBI,2019-09-05,NORMAL,arvind.mehta@oksbi,+91 7943867424,Odisha
+ACC_L105,Suresh Pandey,SAVINGS,Paytm,2015-11-20,NORMAL,suresh.pandey@paytm,+91 9619141365,Punjab

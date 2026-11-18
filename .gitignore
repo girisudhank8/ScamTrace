@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments & Virtual Envs
+.env
+.venv/
+env/
+venv/
+ENV/
+build/
+dist/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Databases & Local state
+*.db
+*.sqlite
+*.sqlite3
+
+# Dynamic & Temporary Files
+temp_*.html
+*.log
+
+# Generated Forensic Outputs & Uploads (keep directories via .gitkeep)
+uploads/*
+!uploads/.gitkeep
+reports_output/*
+!reports_output/.gitkeep
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
